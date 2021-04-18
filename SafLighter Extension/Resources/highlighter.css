@@ -1,0 +1,83 @@
+flasaflighteryellowlight {
+    background-color: #FFFF00;
+    border-radius: 10px;
+}
+
+flasaflighteryellowdark {
+    background-color: #B69A00;
+    border-radius: 10px;
+}
+
+flasaflighterorangelight {
+    background-color: #FF9A2F;
+    border-radius: 10px;
+}
+
+flasaflighterorangedark {
+    background-color: #A24000;
+    border-radius: 10px;
+}
+
+flasaflightergreenlight {
+    background-color: #23E000;
+    border-radius: 10px;
+}
+
+flasaflightergreendark {
+    background-color: #116C00;
+    border-radius: 10px;
+}
+
+flasaflighterbluelight {
+    background-color: #00CED8;
+    border-radius: 10px;
+}
+
+flasaflighterbluedark {
+    background-color: #008BFF;
+    border-radius: 10px;
+}
+
+flasaflighterpinklight {
+    background-color: #FD6C9E;
+    border-radius: 10px;
+}
+
+flasaflighterpinkdark {
+    background-color: #AF00AF;
+    border-radius: 10px;
+}
+
+flasafhighlighterpopupdiv {
+    position: absolute;
+    background-color: #C2B5A5;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    border: #998B78 solid 1px;
+    font-size: 45px;
+    text-align: center;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.flasafhighlighterdot {
+    height: 30px;
+    cursor: pointer;
+}
+
+.flasafhighlighterclose {
+    height: 15px;
+    cursor: pointer;
+    vertical-align: top;
+    margin-top: 10px;
+}
+
+.flasaflighterhighlightdisabeld {
+    background-color: rgba(0,0,0,0);
+    border-radius: 0px;
+}

@@ -1,0 +1,56 @@
+:root {
+    color-scheme: light dark;
+}
+
+body {
+    width: 300px;
+    padding: 10px;
+    font-family: system-ui;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    text-align: left;
+    list-style-type: none;
+    margin-left: -20px;
+}
+
+.col1 {
+    width: 15px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.col2 {
+    width: 220px;
+    max-width: 220px;
+    border-bottom: 1px solid;
+}
+
+#books_loading {
+    text-align: center;
+}
+
+.yellow {
+    color: #FFFF00;
+}
+
+.orange {
+    color: #FF9A2F;
+}
+
+.green {
+    color: #23E000;
+}
+
+.pink {
+    color: #FD6C9E;
+}
+
+.blue {
+    color: #00CED8;
+}
+

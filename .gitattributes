@@ -1,0 +1,3 @@
+*.storyboard linguist-detectable
+*.storyboard linguist-language=Swift
+*gpl-3.0.tex linguist-detectable=false
