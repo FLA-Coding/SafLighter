@@ -5,4 +5,4 @@ SafLighter is a tiny Safari extension that allows to highlight text on any webpa
 Download the latest release [here](https://github.com/FLA-Coding/SafLighter/releases/latest)!  
   
 &nbsp;<br/>
-<ins>Language :</ins> 🇬🇧 English
+<ins>Language:</ins> 🇬🇧 English
